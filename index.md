@@ -2,9 +2,9 @@
 ## Contact Information
 * alexislmiranda@outlook.com
 * 646-807-7593
-* LinkedIn 
-* Github 
 * New York, NY 
+* [LinkedIn](https://www.linkedin.com/in/alexislmiranda/)
+* [Github](https://github.com/grover531)
 
 ## Summary
 Full Stack Java Developer transitioning from a career in business development and sales within the technology
